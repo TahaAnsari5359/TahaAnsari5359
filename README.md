@@ -29,10 +29,6 @@
 ![Followers](https://img.shields.io/github/followers/TahaAnsari5359?style=social)
 ![Stars](https://img.shields.io/github/stars/TahaAnsari5359?style=social)
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/TahaAnsari5359/TahaAnsari5359/blob/output/github-contribution-grid-snake.svg)
-
 ## 💬 Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
